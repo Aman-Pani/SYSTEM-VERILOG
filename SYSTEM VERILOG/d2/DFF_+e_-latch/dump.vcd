@@ -1,0 +1,101 @@
+$date
+	Wed May 31 15:27:41 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Dlatch_tb $end
+$var wire 1 ! w1 $end
+$var wire 1 " qn $end
+$var wire 1 # q $end
+$var reg 1 $ clk $end
+$var reg 1 % d $end
+$var reg 1 & rst $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0&
+0%
+0$
+x#
+x"
+0!
+$end
+#5
+1"
+0#
+1$
+#10
+1&
+0$
+#15
+1$
+#18
+1%
+#20
+1!
+0$
+#25
+0"
+1#
+1$
+#26
+0%
+#30
+0!
+0$
+#34
+1!
+1%
+#35
+1$
+#40
+0$
+#42
+0!
+0%
+#44
+0&
+#45
+1"
+0#
+1$
+#50
+0$
+#52
+1!
+1%
+#55
+0"
+1#
+1$
+#60
+0!
+0$
+0%
+#62
+1&
+#65
+1"
+0#
+1$
+#70
+1!
+0$
+1%
+#75
+0"
+1#
+1$
+#78
+0%
+#80
+0!
+0$
