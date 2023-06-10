@@ -1,8 +1,0 @@
-// `include "practice01.sv"
-// `include "practice02.sv"
-// `include "practice03.sv"
-// `include "practice04.sv"
-// `include "practice05.sv"
-// `include "practice06_queue.sv"
-// `include "practice07_queue.sv"
-`include "practice08_queue.sv"
