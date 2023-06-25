@@ -1,0 +1,80 @@
+I am inside adder_test
++++++++++++++++++++++++
+I am inside adder_env
++++++++++++++++++++++++
+I am inside adder_agent
++++++++++++++++++++++++
+I am inside adder_gen
+++++++received tx
++++++++++++++++++++++++
+I am inside adder_bfm
+++++++received tx
++++++++++++++++++++++++
+I am inside adder_mon_in
++++++++++++++++++++++++
+I am inside adder_mon_out
++++++++++++++++++++++++
+I am inside adder_scb
++++++++++++++++++++++++
+I am inside adder_cov
++++++++++++++++++++++++
+*****successful randomised stimulus*******                  15
+-------a=0 b=0 c=1-----------sum=1 carry=0                  15
+mon_in a=0 b=0 c=1 reference sum=1 carry=0                  15
+mon_out                      sum=1 carry=0                  15
+---------------------------------------------------------------
+*****Verification successful**************                  15
+---------------------------------------------------------------
+*****successful randomised stimulus*******                  25
+-------a=0 b=1 c=1-----------sum=0 carry=1                  25
+mon_in a=0 b=1 c=1 reference sum=0 carry=1                  25
+mon_out                      sum=0 carry=1                  25
+---------------------------------------------------------------
+*****Verification successful**************                  25
+---------------------------------------------------------------
+*****successful randomised stimulus*******                  35
+-------a=1 b=1 c=1-----------sum=1 carry=1                  35
+mon_in a=1 b=1 c=1 reference sum=1 carry=1                  35
+mon_out                      sum=1 carry=1                  35
+---------------------------------------------------------------
+*****Verification successful**************                  35
+---------------------------------------------------------------
+*****successful randomised stimulus*******                  45
+-------a=0 b=1 c=0-----------sum=1 carry=0                  45
+mon_in a=0 b=1 c=0 reference sum=1 carry=0                  45
+mon_out                      sum=1 carry=0                  45
+---------------------------------------------------------------
+*****Verification successful**************                  45
+---------------------------------------------------------------
+*****successful randomised stimulus*******                  55
+-------a=0 b=1 c=1-----------sum=0 carry=1                  55
+mon_in a=0 b=1 c=1 reference sum=0 carry=1                  55
+mon_out                      sum=0 carry=1                  55
+---------------------------------------------------------------
+*****Verification successful**************                  55
+---------------------------------------------------------------
+*****successful randomised stimulus*******                  65
+-------a=1 b=0 c=1-----------sum=0 carry=1                  65
+mon_in a=1 b=0 c=1 reference sum=0 carry=1                  65
+mon_out                      sum=0 carry=1                  65
+---------------------------------------------------------------
+*****Verification successful**************                  65
+---------------------------------------------------------------
+*****successful randomised stimulus*******                  75
+-------a=1 b=0 c=0-----------sum=1 carry=0                  75
+mon_in a=1 b=0 c=0 reference sum=1 carry=0                  75
+mon_out                      sum=1 carry=0                  75
+---------------------------------------------------------------
+*****Verification successful**************                  75
+---------------------------------------------------------------
+*****successful randomised stimulus*******                  85
+-------a=1 b=1 c=0-----------sum=0 carry=1                  85
+mon_in a=1 b=1 c=0 reference sum=0 carry=1                  85
+mon_out                      sum=0 carry=1                  85
+---------------------------------------------------------------
+*****Verification successful**************                  85
+---------------------------------------------------------------
+displaying coverage from coverage group adder_ev:50
+displaying coverage from coverage group adder_ev:50
+displaying coverage from coverage group adder_ev:50
+displaying coverage from coverage group adder_ev:50
